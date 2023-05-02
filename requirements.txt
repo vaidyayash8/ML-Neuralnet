@@ -1,4 +1,4 @@
-torch>=11.7
+torch>=1.13.0
 Flask==1.1.1
 gunicorn==19.9.0
 numpy>=1.9.2
